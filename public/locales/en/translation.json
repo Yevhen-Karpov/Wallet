@@ -1,0 +1,61 @@
+{
+  "app_name": "Wallet",
+  "app_title": "Finance app",
+  "ok": "Ok",
+
+  "register": "Sign up",
+  "login": "Sign in",
+  "logout": "Logout",
+  "logout_sure": "Are you sure you want to logout",
+
+  "ccy": "Currency",
+  "buy": "Buy",
+  "sale": "Sale",
+  "home": "Home",
+
+  "name": "Your name",
+  "name_min": "Name must be at least 1 characters",
+  "name_max": "Name must be at most 12 characters",
+
+  "email": "E-mail",
+  "email_string": "Enter your email",
+  "email_error": "Enter a valid email address",
+  "email_require": "Email is required",
+  "email_exists": "This email is already registered",
+
+  "pass": "Password",
+  "pass_confirm": "Confirm password",
+  "pass_string": "Enter your password",
+  "pass_error": "Password must be at least 6 characters long",
+  "pass_max": "Password should be of maximum 12 characters length",
+  "pass_require": "Password is required",
+  "pass_matches": "Password must be min 6 characters and have 1 Uppercase, 1 Number and 1 Lowercase",
+  "pass_confirm_error": "Passwords do not match",
+
+  "transaction_choose": "Choose category",
+  "transaction_string": "Format is not correct",
+  "sum_require": "Sum is required",
+  "date_require": "Please choose a date",
+  "transaction_add": "Add transaction",
+  "income": "Income",
+  "expense": "Expense",
+  "description": "Comment",
+  "add": "Add",
+  "cancel": "Cancel",
+
+  "statistic": "Statistics",
+  "category": "Category",
+  "amount": "Amount",
+  "balance": "Balance",
+  "your_balance": "Your balance",
+  "date": "Date",
+  "month": "Month",
+  "year": "Year",
+  "type": "Type",
+  "sum": "Sum",
+
+  "no_transactions": "You have no transactions yet",
+  "error_something": "Something went wrong! Please, try again",
+
+  "register_success": "Your registration has been successfully completed. You have just been sent an email containing membership activation instructions"
+}
